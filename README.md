@@ -1,8 +1,7 @@
 datecalc
 ========
-######v2.0.0
 
-rcube is created by Violet (http://pariahvi.com) and is licensed under a BSD License. Read LICENSE for more license text.
+rcube is created by PariahVi (http://pariahvi.com) and is licensed under a BSD License. Read LICENSE.txt for more license text.
 
 Python module to solve Rubik's Cubes
 
