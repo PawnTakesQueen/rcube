@@ -1,5 +1,5 @@
-__version__ = '1.0.3.1'
-__author__ = 'Vi Grey (http://pariahvi.com)'
+__version__ = '1.0.3.2'
+__author__ = 'Vi Grey (https://vigrey.com)'
 
 
 def get_centres(mem):

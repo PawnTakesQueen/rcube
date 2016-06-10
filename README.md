@@ -1,7 +1,7 @@
 datecalc
 ========
 
-rcube is created by Vi Grey (http://pariahvi.com) and is licensed under a BSD 2-Clause License. Read LICENSE.txt for more license text.
+rcube is created by Vi Grey (https://vigrey.com) <vi@vigrey.com> and is licensed under a BSD 2-Clause License. Read LICENSE for more license text.
 
 Python module to solve Rubik's Cubes
 
