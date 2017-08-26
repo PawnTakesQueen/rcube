@@ -6,6 +6,7 @@ rcube is created by Vi Grey (https://vigrey.com) <vi@vigrey.com> and is licensed
 Python module to solve Rubik's Cubes
 
 ####Dependencies
+
 * Python (>= 2.4)
 
 To install, open the terminal and `cd to the root directory of this program, then enter the command:
@@ -19,12 +20,14 @@ sudo pip install rcube
 ```
 
 ####Importing the Module
+
 Simply type:
 ```
 import rcube
 ```
 
 ####Using the Module
+
 To use this module to solve a rubik's cube, use *rcube.solve(cube_list)* where cube_list is a list with the format:
 
 ```
@@ -114,6 +117,7 @@ Back is below
 =-=-=-=-=-=-=-=-=-=
 
 ####Example Uses
+
 ```
 import rcube
 
